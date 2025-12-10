@@ -14,3 +14,7 @@
 - Install Axios
 - CORS - Install cors in BE => add middleware to with configurations: origin, credentials:true
 - Whenever You are making API call pass axios=>{withcredentials:true},
+- Install @reduxjs/toolkit, react-redux 
+- => configureStore(appStore.js) => Provider(app.js) => createSlice & export => add reducer to store 
+- Login and see the data is coming properly in the store
+- NavBar update as soon as user logged in
