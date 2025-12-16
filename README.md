@@ -18,3 +18,5 @@
 - => configureStore(appStore.js) => Provider(app.js) => createSlice & export => add reducer to store 
 - Login and see the data is coming properly in the store
 - NavBar update as soon as user logged in
+- User should not be access other routes without login
+- If token is not present, redirects user to login page 
