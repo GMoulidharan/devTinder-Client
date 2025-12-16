@@ -20,3 +20,4 @@
 - NavBar update as soon as user logged in
 - User should not be access other routes without login
 - If token is not present, redirects user to login page 
+- Logout feature
