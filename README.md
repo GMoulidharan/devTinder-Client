@@ -24,3 +24,6 @@
 - Get the feed and add the feed in the Store
 - Profile page
 - Edit the profile page 
+- Build the usercard on feed
+- Show toast message on save the profile
+- see all my connections
