@@ -21,3 +21,6 @@
 - User should not be access other routes without login
 - If token is not present, redirects user to login page 
 - Logout feature
+- Get the feed and add the feed in the Store
+- Profile page
+- Edit the profile page 
